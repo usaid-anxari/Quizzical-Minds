@@ -48,6 +48,8 @@ body {
     border-radius: 4px;
     cursor: pointer;
     transition: all 0.3s;
+    border: 0;
+    outline: 0;
 }
 
 .btn:hover:not([disabled]){
